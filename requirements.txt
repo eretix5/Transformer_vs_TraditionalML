@@ -1,0 +1,8 @@
+transformers
+datasets
+evaluate
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+torch
